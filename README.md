@@ -1,0 +1,1 @@
+*to follow along with Tarversy Media's MEAN Stack Front to Back Youtube Tutorial Series - all while using GIT + GITHUB*
